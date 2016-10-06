@@ -1,0 +1,22 @@
+body {
+	background-color: #330033;
+}
+
+.centered {
+	font-family: 'Montserrat', sans-serif;
+	font: "Myraids pro bold";
+	color: #fff;
+	position: fixed; /* or absolute */
+	top: 50%;
+	left: 50%;
+	/* bring your own prefixes */
+	transform: translate(-50%, -50%);
+}
+
+.highLight {
+	color: lightgreen;
+}
+
+a {
+	color: lightgreen;
+}
